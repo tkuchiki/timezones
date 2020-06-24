@@ -1,0 +1,252 @@
+[
+  {
+    "long": {
+      "standard": "Alfa Time Zone"
+    },
+    "short": {
+      "standard": "A"
+    },
+    "standard_offset": 3600,
+    "standard_offset_hhmm": "+01:00"
+  },
+  {
+    "long": {
+      "standard": "Bravo Time Zone"
+    },
+    "short": {
+      "standard": "B"
+    },
+    "standard_offset": 7200,
+    "standard_offset_hhmm": "+02:00"
+  },
+  {
+    "long": {
+      "standard": "Charlie Time Zone"
+    },
+    "short": {
+      "standard": "C"
+    },
+    "standard_offset": 10800,
+    "standard_offset_hhmm": "+03:00"
+  },
+  {
+    "long": {
+      "standard": "Delta Time Zone"
+    },
+    "short": {
+      "standard": "D"
+    },
+    "standard_offset": 14400,
+    "standard_offset_hhmm": "+04:00"
+  },
+  {
+    "long": {
+      "standard": "Echo Time Zone"
+    },
+    "short": {
+      "standard": "E"
+    },
+    "standard_offset": 18000,
+    "standard_offset_hhmm": "+05:00"
+  },
+  {
+    "long": {
+      "standard": "Foxtrot Time Zone"
+    },
+    "short": {
+      "standard": "F"
+    },
+    "standard_offset": 21600,
+    "standard_offset_hhmm": "+06:00"
+  },
+  {
+    "long": {
+      "standard": "Golf Time Zone"
+    },
+    "short": {
+      "standard": "G"
+    },
+    "standard_offset": 25200,
+    "standard_offset_hhmm": "+07:00"
+  },
+  {
+    "long": {
+      "standard": "Hotel Time Zone"
+    },
+    "short": {
+      "standard": "H"
+    },
+    "standard_offset": 28800,
+    "standard_offset_hhmm": "+08:00"
+  },
+  {
+    "long": {
+      "standard": "India Time Zone"
+    },
+    "short": {
+      "standard": "I"
+    },
+    "standard_offset": 32400,
+    "standard_offset_hhmm": "+09:00"
+  },
+  {
+    "long": {
+      "standard": "Kilo Time Zone"
+    },
+    "short": {
+      "standard": "K"
+    },
+    "standard_offset": 36000,
+    "standard_offset_hhmm": "+10:00"
+  },
+  {
+    "long": {
+      "standard": "Lima Time Zone"
+    },
+    "short": {
+      "standard": "L"
+    },
+    "standard_offset": 39600,
+    "standard_offset_hhmm": "+11:00"
+  },
+  {
+    "long": {
+      "standard": "Mike Time Zone"
+    },
+    "short": {
+      "standard": "M"
+    },
+    "standard_offset": 43200,
+    "standard_offset_hhmm": "+12:00"
+  },
+  {
+    "long": {
+      "standard": "November Time Zone"
+    },
+    "short": {
+      "standard": "N"
+    },
+    "standard_offset": -3600,
+    "standard_offset_hhmm": "-01:00"
+  },
+  {
+    "long": {
+      "standard": "Oscar Time Zone"
+    },
+    "short": {
+      "standard": "O"
+    },
+    "standard_offset": -7200,
+    "standard_offset_hhmm": "-02:00"
+  },
+  {
+    "long": {
+      "standard": "Papa Time Zone"
+    },
+    "short": {
+      "standard": "P"
+    },
+    "standard_offset": -10800,
+    "standard_offset_hhmm": "-03:00"
+  },
+  {
+    "long": {
+      "standard": "Quebec Time Zone"
+    },
+    "short": {
+      "standard": "Q"
+    },
+    "standard_offset": -14400,
+    "standard_offset_hhmm": "-04:00"
+  },
+  {
+    "long": {
+      "standard": "Romeo Time Zone"
+    },
+    "short": {
+      "standard": "R"
+    },
+    "standard_offset": -18000,
+    "standard_offset_hhmm": "-05:00"
+  },
+  {
+    "long": {
+      "standard": "Sierra Time Zone"
+    },
+    "short": {
+      "standard": "S"
+    },
+    "standard_offset": -21600,
+    "standard_offset_hhmm": "-06:00"
+  },
+  {
+    "long": {
+      "standard": "Tango Time Zone"
+    },
+    "short": {
+      "standard": "T"
+    },
+    "standard_offset": -25200,
+    "standard_offset_hhmm": "-07:00"
+  },
+  {
+    "long": {
+      "standard": "Uniform Time Zone"
+    },
+    "short": {
+      "standard": "U"
+    },
+    "standard_offset": -28800,
+    "standard_offset_hhmm": "-08:00"
+  },
+  {
+    "long": {
+      "standard": "Victor Time Zone"
+    },
+    "short": {
+      "standard": "V"
+    },
+    "standard_offset": -32400,
+    "standard_offset_hhmm": "-09:00"
+  },
+  {
+    "long": {
+      "standard": "Whiskey Time Zone"
+    },
+    "short": {
+      "standard": "W"
+    },
+    "standard_offset": -36000,
+    "standard_offset_hhmm": "-10:00"
+  },
+  {
+    "long": {
+      "standard": "X-ray Time Zone"
+    },
+    "short": {
+      "standard": "X"
+    },
+    "standard_offset": -39600,
+    "standard_offset_hhmm": "-11:00"
+  },
+  {
+    "long": {
+      "standard": "Yankee Time Zone"
+    },
+    "short": {
+      "standard": "Y"
+    },
+    "standard_offset": -43200,
+    "standard_offset_hhmm": "-12:00"
+  },
+  {
+    "long": {
+      "standard": "Zulu Time Zone"
+    },
+    "short": {
+      "standard": "Z"
+    },
+    "standard_offset": 0,
+    "standard_offset_hhmm": "+00:00"
+  }
+]

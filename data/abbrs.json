@@ -1,0 +1,2552 @@
+{
+  "GMT": [
+    {
+      "name": "Greenwich Mean Time",
+      "offset": 0,
+      "offset_hhmm": "+00:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GHST": [
+    {
+      "name": "Ghana Summer Time",
+      "offset": 1200,
+      "offset_hhmm": "+00:20",
+      "is_dst": true,
+      "country_code": "GH"
+    }
+  ],
+  "EAT": [
+    {
+      "name": "East Africa Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": false,
+      "country_code": "ET"
+    }
+  ],
+  "CET": [
+    {
+      "name": "Central European Time/Central European Standard Time",
+      "offset": 3600,
+      "offset_hhmm": "+01:00",
+      "is_dst": false,
+      "country_code": "DZ"
+    }
+  ],
+  "WAT": [
+    {
+      "name": "West Africa Time/West Africa Standard Time",
+      "offset": 3600,
+      "offset_hhmm": "+01:00",
+      "is_dst": false,
+      "country_code": "CF"
+    }
+  ],
+  "CAT": [
+    {
+      "name": "Central Africa Time",
+      "offset": 7200,
+      "offset_hhmm": "+02:00",
+      "is_dst": false,
+      "country_code": "MW"
+    }
+  ],
+  "EET": [
+    {
+      "name": "Eastern European Time/Eastern European Standard Time",
+      "offset": 7200,
+      "offset_hhmm": "+02:00",
+      "is_dst": false,
+      "country_code": "EG"
+    }
+  ],
+  "EEST": [
+    {
+      "name": "Eastern European Summer Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": true,
+      "country_code": "EG"
+    }
+  ],
+  "WET": [
+    {
+      "name": "Western European Time/Western European Standard Time",
+      "offset": 0,
+      "offset_hhmm": "+00:00",
+      "is_dst": false,
+      "country_code": "MA"
+    },
+    {
+      "name": "Western European Standard Time",
+      "offset": 0,
+      "offset_hhmm": "+00:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "WEST": [
+    {
+      "name": "Western European Summer Time",
+      "offset": 3600,
+      "offset_hhmm": "+01:00",
+      "is_dst": true,
+      "country_code": "MA"
+    }
+  ],
+  "CEST": [
+    {
+      "name": "Central European Summer Time",
+      "offset": 7200,
+      "offset_hhmm": "+02:00",
+      "is_dst": true,
+      "country_code": "ES"
+    }
+  ],
+  "SAST": [
+    {
+      "name": "South Africa Standard Time",
+      "offset": 7200,
+      "offset_hhmm": "+02:00",
+      "is_dst": false,
+      "country_code": "ZA"
+    },
+    {
+      "name": "South Africa Summer Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": true,
+      "country_code": "ZA"
+    }
+  ],
+  "CAST": [
+    {
+      "name": "Central Africa Summer Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": true,
+      "country_code": "SD"
+    }
+  ],
+  "HAT": [
+    {
+      "name": "Hawaii-Aleutian Time",
+      "offset": -36000,
+      "offset_hhmm": "-10:00",
+      "is_dst": false,
+      "country_code": "US"
+    }
+  ],
+  "HAST": [
+    {
+      "name": "Hawaii-Aleutian Standard Time",
+      "offset": -36000,
+      "offset_hhmm": "-10:00",
+      "is_dst": false,
+      "country_code": "US"
+    }
+  ],
+  "HADT": [
+    {
+      "name": "Hawaii-Aleutian Daylight Time",
+      "offset": -32400,
+      "offset_hhmm": "-09:00",
+      "is_dst": true,
+      "country_code": "US"
+    }
+  ],
+  "AKT": [
+    {
+      "name": "Alaska Time",
+      "offset": -32400,
+      "offset_hhmm": "-09:00",
+      "is_dst": false,
+      "country_code": "US"
+    }
+  ],
+  "AKST": [
+    {
+      "name": "Alaska Standard Time",
+      "offset": -32400,
+      "offset_hhmm": "-09:00",
+      "is_dst": false,
+      "country_code": "US"
+    }
+  ],
+  "AKDT": [
+    {
+      "name": "Alaska Daylight Time",
+      "offset": -28800,
+      "offset_hhmm": "-08:00",
+      "is_dst": true,
+      "country_code": "US"
+    }
+  ],
+  "AT": [
+    {
+      "name": "Atlantic Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": "AI"
+    }
+  ],
+  "AST": [
+    {
+      "name": "Atlantic Standard Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": "AI"
+    },
+    {
+      "name": "Arabian Time/Arabian Standard Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": false,
+      "country_code": "YE"
+    }
+  ],
+  "BRT": [
+    {
+      "name": "Brasilia Time/Brasilia Standard Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "BR"
+    }
+  ],
+  "BRST": [
+    {
+      "name": "Brasilia Summer Time",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": true,
+      "country_code": "BR"
+    }
+  ],
+  "ART": [
+    {
+      "name": "Argentina Time/Argentina Standard Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "AR"
+    }
+  ],
+  "ARST": [
+    {
+      "name": "Argentina Summer Time",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": true,
+      "country_code": "AR"
+    }
+  ],
+  "PYT": [
+    {
+      "name": "Paraguay Time/Paraguay Standard Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": "PY"
+    }
+  ],
+  "PYST": [
+    {
+      "name": "Paraguay Summer Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": true,
+      "country_code": "PY"
+    }
+  ],
+  "ET": [
+    {
+      "name": "Eastern Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "CA"
+    }
+  ],
+  "EST": [
+    {
+      "name": "Eastern Standard Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "CA"
+    }
+  ],
+  "CT": [
+    {
+      "name": "Central Time",
+      "offset": -21600,
+      "offset_hhmm": "-06:00",
+      "is_dst": false,
+      "country_code": "MX"
+    },
+    {
+      "name": "Cuba Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "CU"
+    },
+    {
+      "name": "China Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "CN"
+    },
+    {
+      "name": "Taipei Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "TW"
+    }
+  ],
+  "CST": [
+    {
+      "name": "Central Standard Time",
+      "offset": -21600,
+      "offset_hhmm": "-06:00",
+      "is_dst": false,
+      "country_code": "MX"
+    },
+    {
+      "name": "Cuba Standard Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "CU"
+    },
+    {
+      "name": "China Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "CN"
+    },
+    {
+      "name": "Taipei Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "TW"
+    }
+  ],
+  "CDT": [
+    {
+      "name": "Central Daylight Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": true,
+      "country_code": "MX"
+    },
+    {
+      "name": "Cuba Daylight Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": true,
+      "country_code": "CU"
+    },
+    {
+      "name": "China Daylight Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "CN"
+    },
+    {
+      "name": "Taipei Daylight Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "TW"
+    }
+  ],
+  "ADT": [
+    {
+      "name": "Atlantic Daylight Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": true,
+      "country_code": "BB"
+    },
+    {
+      "name": "Arabian Daylight Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": true,
+      "country_code": "IQ"
+    }
+  ],
+  "AMT": [
+    {
+      "name": "Amazon Time/Amazon Standard Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": "BR"
+    },
+    {
+      "name": "Armenia Time/Armenia Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "AM"
+    }
+  ],
+  "AMST": [
+    {
+      "name": "Amazon Summer Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": true,
+      "country_code": "BR"
+    },
+    {
+      "name": "Armenia Summer Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": true,
+      "country_code": "AM"
+    }
+  ],
+  "COT": [
+    {
+      "name": "Colombia Time/Colombia Standard Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "CO"
+    }
+  ],
+  "COST": [
+    {
+      "name": "Colombia Summer Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": true,
+      "country_code": "CO"
+    }
+  ],
+  "MT": [
+    {
+      "name": "Mountain Time",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": false,
+      "country_code": "US"
+    },
+    {
+      "name": "Mexican Pacific Time",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": false,
+      "country_code": "MX"
+    }
+  ],
+  "MST": [
+    {
+      "name": "Mountain Standard Time",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": false,
+      "country_code": "US"
+    },
+    {
+      "name": "Mexican Pacific Standard Time",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": false,
+      "country_code": "MX"
+    }
+  ],
+  "MDT": [
+    {
+      "name": "Mountain Daylight Time",
+      "offset": -21600,
+      "offset_hhmm": "-06:00",
+      "is_dst": true,
+      "country_code": "US"
+    },
+    {
+      "name": "Mexican Pacific Daylight Time",
+      "offset": -21600,
+      "offset_hhmm": "-06:00",
+      "is_dst": true,
+      "country_code": "MX"
+    }
+  ],
+  "VET": [
+    {
+      "name": "Venezuela Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": "VE"
+    }
+  ],
+  "GFT": [
+    {
+      "name": "French Guiana Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "GF"
+    }
+  ],
+  "PT": [
+    {
+      "name": "Pacific Time",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": false,
+      "country_code": "CA"
+    }
+  ],
+  "PST": [
+    {
+      "name": "Pacific Standard Time",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": false,
+      "country_code": "CA"
+    },
+    {
+      "name": "Pitcairn Time",
+      "offset": -28800,
+      "offset_hhmm": "-08:00",
+      "is_dst": false,
+      "country_code": "PN"
+    }
+  ],
+  "EDT": [
+    {
+      "name": "Eastern Daylight Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": true,
+      "country_code": "US"
+    }
+  ],
+  "ACT": [
+    {
+      "name": "Acre Time/Acre Standard Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "BR"
+    },
+    {
+      "name": "Central Australia Time",
+      "offset": 34200,
+      "offset_hhmm": "+09:30",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "ACST": [
+    {
+      "name": "Acre Summer Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": true,
+      "country_code": "BR"
+    },
+    {
+      "name": "Australian Central Standard Time",
+      "offset": 34200,
+      "offset_hhmm": "+09:30",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "PDT": [
+    {
+      "name": "Pacific Daylight Time",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": true,
+      "country_code": "MX"
+    }
+  ],
+  "WGT": [
+    {
+      "name": "West Greenland Time/West Greenland Standard Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "GL"
+    }
+  ],
+  "WGST": [
+    {
+      "name": "West Greenland Summer Time",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": true,
+      "country_code": "GL"
+    }
+  ],
+  "ECT": [
+    {
+      "name": "Ecuador Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "EC"
+    }
+  ],
+  "GYT": [
+    {
+      "name": "Guyana Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": "GY"
+    }
+  ],
+  "BOT": [
+    {
+      "name": "Bolivia Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": "BO"
+    }
+  ],
+  "BST": [
+    {
+      "name": "Bolivia Summer Time",
+      "offset": -12756,
+      "offset_hhmm": "-03:27",
+      "is_dst": true,
+      "country_code": "BO"
+    },
+    {
+      "name": "British Summer Time",
+      "offset": 3600,
+      "offset_hhmm": "+01:00",
+      "is_dst": true,
+      "country_code": "GB"
+    },
+    {
+      "name": "Bougainville Standard Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "PG"
+    }
+  ],
+  "PET": [
+    {
+      "name": "Peru Time/Peru Standard Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": "PE"
+    }
+  ],
+  "PEST": [
+    {
+      "name": "Peru Summer Time",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": true,
+      "country_code": "PE"
+    }
+  ],
+  "PMST": [
+    {
+      "name": "St. Pierre & Miquelon Time/St. Pierre & Miquelon Standard Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "PM"
+    }
+  ],
+  "PMDT": [
+    {
+      "name": "St. Pierre & Miquelon Daylight Time",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": true,
+      "country_code": "PM"
+    }
+  ],
+  "UYT": [
+    {
+      "name": "Uruguay Time/Uruguay Standard Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "UY"
+    }
+  ],
+  "UYST": [
+    {
+      "name": "Uruguay Summer Time",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": true,
+      "country_code": "UY"
+    }
+  ],
+  "FNT": [
+    {
+      "name": "Fernando de Noronha Time/Fernando de Noronha Standard Time",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": false,
+      "country_code": "BR"
+    }
+  ],
+  "FNST": [
+    {
+      "name": "Fernando de Noronha Summer Time",
+      "offset": -3600,
+      "offset_hhmm": "-01:00",
+      "is_dst": true,
+      "country_code": "BR"
+    }
+  ],
+  "SRT": [
+    {
+      "name": "Suriname Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "SR"
+    }
+  ],
+  "CLT": [
+    {
+      "name": "Chile Time/Chile Standard Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "CL"
+    }
+  ],
+  "CLST": [
+    {
+      "name": "Chile Summer Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": true,
+      "country_code": "CL"
+    }
+  ],
+  "EHDT": [
+    {
+      "name": "Eastern Half Daylight Time",
+      "offset": -16200,
+      "offset_hhmm": "-04:30",
+      "is_dst": true,
+      "country_code": "DO"
+    }
+  ],
+  "EGT": [
+    {
+      "name": "East Greenland Time/East Greenland Standard Time",
+      "offset": -3600,
+      "offset_hhmm": "-01:00",
+      "is_dst": false,
+      "country_code": "GL"
+    }
+  ],
+  "EGST": [
+    {
+      "name": "East Greenland Summer Time",
+      "offset": 0,
+      "offset_hhmm": "+00:00",
+      "is_dst": true,
+      "country_code": "GL"
+    }
+  ],
+  "NT": [
+    {
+      "name": "Newfoundland Time",
+      "offset": -12600,
+      "offset_hhmm": "-03:30",
+      "is_dst": false,
+      "country_code": "CA"
+    }
+  ],
+  "NST": [
+    {
+      "name": "Newfoundland Standard Time",
+      "offset": -12600,
+      "offset_hhmm": "-03:30",
+      "is_dst": false,
+      "country_code": "CA"
+    }
+  ],
+  "NDT": [
+    {
+      "name": "Newfoundland Daylight Time",
+      "offset": -9000,
+      "offset_hhmm": "-02:30",
+      "is_dst": true,
+      "country_code": "CA"
+    }
+  ],
+  "AWT": [
+    {
+      "name": "Australian Western Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "AWST": [
+    {
+      "name": "Australian Western Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "DAVT": [
+    {
+      "name": "Davis Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "DDUT": [
+    {
+      "name": "Dumont-d’Urville Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "MIST": [
+    {
+      "name": "Macquarie Island Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "MAWT": [
+    {
+      "name": "Mawson Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "NZT": [
+    {
+      "name": "New Zealand Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "NZST": [
+    {
+      "name": "New Zealand Standard Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "NZDT": [
+    {
+      "name": "New Zealand Daylight Time",
+      "offset": 46800,
+      "offset_hhmm": "+13:00",
+      "is_dst": true,
+      "country_code": "AQ"
+    }
+  ],
+  "ROTT": [
+    {
+      "name": "Rothera Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "SYOT": [
+    {
+      "name": "Syowa Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "VOST": [
+    {
+      "name": "Vostok Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "AQ"
+    }
+  ],
+  "ALMT": [
+    {
+      "name": "Almaty Time/Almaty Standard Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "KZ"
+    },
+    {
+      "name": "Almaty Standard Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "KZ"
+    }
+  ],
+  "ALMST": [
+    {
+      "name": "Almaty Summer Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": true,
+      "country_code": "KZ"
+    }
+  ],
+  "ANAT": [
+    {
+      "name": "Anadyr Time/Anadyr Standard Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "AQTT": [
+    {
+      "name": "Aqtau Time/Aqtau Standard Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "KZ"
+    },
+    {
+      "name": "Aqtobe Time/Aqtobe Standard Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "KZ"
+    }
+  ],
+  "AQTST": [
+    {
+      "name": "Aqtobe Summer Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": true,
+      "country_code": "KZ"
+    }
+  ],
+  "TMT": [
+    {
+      "name": "Turkmenistan Time/Turkmenistan Standard Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "TM"
+    }
+  ],
+  "AZT": [
+    {
+      "name": "Azerbaijan Time/Azerbaijan Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "AZ"
+    }
+  ],
+  "AZST": [
+    {
+      "name": "Azerbaijan Summer Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": true,
+      "country_code": "AZ"
+    }
+  ],
+  "ICT": [
+    {
+      "name": "Indochina Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": "TH"
+    }
+  ],
+  "KRAT": [
+    {
+      "name": "Krasnoyarsk Time/Krasnoyarsk Standard Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "KGT": [
+    {
+      "name": "Kyrgyzstan Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "KG"
+    }
+  ],
+  "BNT": [
+    {
+      "name": "Brunei Darussalam Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "BN"
+    }
+  ],
+  "IST": [
+    {
+      "name": "India Standard Time",
+      "offset": 19800,
+      "offset_hhmm": "+05:30",
+      "is_dst": false,
+      "country_code": "IN"
+    },
+    {
+      "name": "India Summer Time",
+      "offset": 23400,
+      "offset_hhmm": "+06:30",
+      "is_dst": true,
+      "country_code": "IN"
+    },
+    {
+      "name": "Israel Time/Israel Standard Time",
+      "offset": 7200,
+      "offset_hhmm": "+02:00",
+      "is_dst": false,
+      "country_code": "IL"
+    },
+    {
+      "name": "Irish Standard Time",
+      "offset": 3600,
+      "offset_hhmm": "+01:00",
+      "is_dst": true,
+      "country_code": "IE"
+    }
+  ],
+  "YAKT": [
+    {
+      "name": "Yakutsk Time/Yakutsk Standard Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "YAKST": [
+    {
+      "name": "Yakutsk Summer Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "CHOT": [
+    {
+      "name": "Choibalsan Time/Choibalsan Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "MN"
+    }
+  ],
+  "CHOST": [
+    {
+      "name": "Choibalsan Summer Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "MN"
+    }
+  ],
+  "BDT": [
+    {
+      "name": "Bangladesh Time/Bangladesh Standard Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "BD"
+    }
+  ],
+  "BDST": [
+    {
+      "name": "Bangladesh Summer Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": true,
+      "country_code": "BD"
+    }
+  ],
+  "TLT": [
+    {
+      "name": "East Timor Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": "TL"
+    }
+  ],
+  "GST": [
+    {
+      "name": "Gulf Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "AE"
+    },
+    {
+      "name": "South Georgia Time",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": false,
+      "country_code": "GS"
+    }
+  ],
+  "TJT": [
+    {
+      "name": "Tajikistan Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "TJ"
+    }
+  ],
+  "TSD": [
+    {
+      "name": "Tashkent Summer Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": true,
+      "country_code": "TJ"
+    }
+  ],
+  "HKT": [
+    {
+      "name": "Hong Kong Time/Hong Kong Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "HK"
+    }
+  ],
+  "HKST": [
+    {
+      "name": "Hong Kong Summer Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "HK"
+    }
+  ],
+  "HOVT": [
+    {
+      "name": "Hovd Time/Hovd Standard Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": "MN"
+    }
+  ],
+  "HOVST": [
+    {
+      "name": "Hovd Summer Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": true,
+      "country_code": "MN"
+    }
+  ],
+  "IRKT": [
+    {
+      "name": "Irkutsk Time/Irkutsk Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "IRKST": [
+    {
+      "name": "Irkutsk Summer Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "TRT": [
+    {
+      "name": "Turkey Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": false,
+      "country_code": "TR"
+    }
+  ],
+  "WIB": [
+    {
+      "name": "Western Indonesia Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": "ID"
+    }
+  ],
+  "WIT": [
+    {
+      "name": "Eastern Indonesia Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": "ID"
+    }
+  ],
+  "IDT": [
+    {
+      "name": "Israel Daylight Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": true,
+      "country_code": "IL"
+    }
+  ],
+  "AFT": [
+    {
+      "name": "Afghanistan Time",
+      "offset": 16200,
+      "offset_hhmm": "+04:30",
+      "is_dst": false,
+      "country_code": "AF"
+    }
+  ],
+  "PETT": [
+    {
+      "name": "Petropavlovsk-Kamchatski Time/Petropavlovsk-Kamchatski Standard Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "PKT": [
+    {
+      "name": "Pakistan Time/Pakistan Standard Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "PK"
+    }
+  ],
+  "PKST": [
+    {
+      "name": "Pakistan Summer Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": true,
+      "country_code": "PK"
+    }
+  ],
+  "NPT": [
+    {
+      "name": "Nepal Time",
+      "offset": 20700,
+      "offset_hhmm": "+05:45",
+      "is_dst": false,
+      "country_code": "NP"
+    }
+  ],
+  "KRAST": [
+    {
+      "name": "Krasnoyarsk Summer Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "MYT": [
+    {
+      "name": "Malaysia Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "MY"
+    }
+  ],
+  "MLAST": [
+    {
+      "name": "Malaya Summer Time",
+      "offset": 26400,
+      "offset_hhmm": "+07:20",
+      "is_dst": true,
+      "country_code": "MY"
+    }
+  ],
+  "BORTST": [
+    {
+      "name": "Borneo Summer Time",
+      "offset": 30000,
+      "offset_hhmm": "+08:20",
+      "is_dst": true,
+      "country_code": "MY"
+    }
+  ],
+  "MAGT": [
+    {
+      "name": "Magadan Time/Magadan Standard Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "MAGST": [
+    {
+      "name": "Magadan Summer Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "WITA": [
+    {
+      "name": "Central Indonesia Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "ID"
+    }
+  ],
+  "PHT": [
+    {
+      "name": "Philippine Time/Philippine Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "PH"
+    }
+  ],
+  "PHST": [
+    {
+      "name": "Philippine Summer Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "PH"
+    }
+  ],
+  "NOVT": [
+    {
+      "name": "Novosibirsk Time/Novosibirsk Standard Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "OMST": [
+    {
+      "name": "Omsk Time/Omsk Standard Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "OMSST": [
+    {
+      "name": "Omsk Summer Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "ORAT": [
+    {
+      "name": "Oral Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "KZ"
+    }
+  ],
+  "KT": [
+    {
+      "name": "Korean Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": "KP"
+    }
+  ],
+  "KST": [
+    {
+      "name": "Korean Standard Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": "KP"
+    }
+  ],
+  "QYZT": [
+    {
+      "name": "Qyzylorda Time/Qyzylorda Standard Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "KZ"
+    }
+  ],
+  "QYZST": [
+    {
+      "name": "Qyzylorda Summer Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": true,
+      "country_code": "KZ"
+    }
+  ],
+  "MMT": [
+    {
+      "name": "Myanmar Time",
+      "offset": 23400,
+      "offset_hhmm": "+06:30",
+      "is_dst": false,
+      "country_code": "MM"
+    }
+  ],
+  "SAKT": [
+    {
+      "name": "Sakhalin Time/Sakhalin Standard Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "UZT": [
+    {
+      "name": "Uzbekistan Time/Uzbekistan Standard Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "UZ"
+    }
+  ],
+  "UZST": [
+    {
+      "name": "Uzbekistan Summer Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": true,
+      "country_code": "UZ"
+    }
+  ],
+  "KDT": [
+    {
+      "name": "Korean Daylight Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": true,
+      "country_code": "KR"
+    }
+  ],
+  "SGT": [
+    {
+      "name": "Singapore Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "SG"
+    }
+  ],
+  "MALST": [
+    {
+      "name": "Malaya Summer Time",
+      "offset": 26400,
+      "offset_hhmm": "+07:20",
+      "is_dst": true,
+      "country_code": "SG"
+    }
+  ],
+  "SRET": [
+    {
+      "name": "Srednekolymsk Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "GET": [
+    {
+      "name": "Georgia Time/Georgia Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "GE"
+    }
+  ],
+  "IRST": [
+    {
+      "name": "Iran Time/Iran Standard Time",
+      "offset": 12600,
+      "offset_hhmm": "+03:30",
+      "is_dst": false,
+      "country_code": "IR"
+    }
+  ],
+  "IRDT": [
+    {
+      "name": "Iran Daylight Time",
+      "offset": 16200,
+      "offset_hhmm": "+04:30",
+      "is_dst": true,
+      "country_code": "IR"
+    }
+  ],
+  "BTT": [
+    {
+      "name": "Bhutan Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "BT"
+    }
+  ],
+  "JST": [
+    {
+      "name": "Japan Time/Japan Standard Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": "JP"
+    }
+  ],
+  "JDT": [
+    {
+      "name": "Japan Daylight Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": true,
+      "country_code": "JP"
+    }
+  ],
+  "ULAT": [
+    {
+      "name": "Ulaanbaatar Time/Ulaanbaatar Standard Time",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": "MN"
+    }
+  ],
+  "ULAST": [
+    {
+      "name": "Ulaanbaatar Summer Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "MN"
+    }
+  ],
+  "VLAT": [
+    {
+      "name": "Vladivostok Time/Vladivostok Standard Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "VLAST": [
+    {
+      "name": "Vladivostok Summer Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "YEKT": [
+    {
+      "name": "Yekaterinburg Time/Yekaterinburg Standard Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "YEKST": [
+    {
+      "name": "Yekaterinburg Summer Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "AZOT": [
+    {
+      "name": "Azores Time/Azores Standard Time",
+      "offset": -3600,
+      "offset_hhmm": "-01:00",
+      "is_dst": false,
+      "country_code": "PT"
+    }
+  ],
+  "AZOST": [
+    {
+      "name": "Azores Summer Time",
+      "offset": 0,
+      "offset_hhmm": "+00:00",
+      "is_dst": true,
+      "country_code": "PT"
+    }
+  ],
+  "CVT": [
+    {
+      "name": "Cape Verde Time/Cape Verde Standard Time",
+      "offset": -3600,
+      "offset_hhmm": "-01:00",
+      "is_dst": false,
+      "country_code": "CV"
+    }
+  ],
+  "FKT": [
+    {
+      "name": "Falkland Islands Time/Falkland Islands Standard Time",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": "FK"
+    }
+  ],
+  "AET": [
+    {
+      "name": "Eastern Australia Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "AEST": [
+    {
+      "name": "Australian Eastern Standard Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "AEDT": [
+    {
+      "name": "Australian Eastern Daylight Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": true,
+      "country_code": "AU"
+    }
+  ],
+  "ACDT": [
+    {
+      "name": "Australian Central Daylight Time",
+      "offset": 37800,
+      "offset_hhmm": "+10:30",
+      "is_dst": true,
+      "country_code": "AU"
+    }
+  ],
+  "ACWT": [
+    {
+      "name": "Australian Central Western Time",
+      "offset": 31500,
+      "offset_hhmm": "+08:45",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "ACWST": [
+    {
+      "name": "Australian Central Western Standard Time",
+      "offset": 31500,
+      "offset_hhmm": "+08:45",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "ACWDT": [
+    {
+      "name": "Australian Central Western Daylight Time",
+      "offset": 35100,
+      "offset_hhmm": "+09:45",
+      "is_dst": true,
+      "country_code": "AU"
+    }
+  ],
+  "LHT": [
+    {
+      "name": "Lord Howe Time",
+      "offset": 37800,
+      "offset_hhmm": "+10:30",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "LHST": [
+    {
+      "name": "Lord Howe Standard Time",
+      "offset": 37800,
+      "offset_hhmm": "+10:30",
+      "is_dst": false,
+      "country_code": "AU"
+    }
+  ],
+  "LHDT": [
+    {
+      "name": "Lord Howe Daylight Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": true,
+      "country_code": "AU"
+    }
+  ],
+  "AWDT": [
+    {
+      "name": "Australian Western Daylight Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": true,
+      "country_code": "AU"
+    }
+  ],
+  "EAST": [
+    {
+      "name": "Easter Island Time/Easter Island Standard Time",
+      "offset": -21600,
+      "offset_hhmm": "-06:00",
+      "is_dst": false,
+      "country_code": "CL"
+    }
+  ],
+  "EASST": [
+    {
+      "name": "Easter Island Summer Time",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": true,
+      "country_code": "CL"
+    }
+  ],
+  "GMT-1": [
+    {
+      "name": "Greenwich Mean Time -1",
+      "offset": -3600,
+      "offset_hhmm": "-01:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-10": [
+    {
+      "name": "Greenwich Mean Time -10",
+      "offset": -36000,
+      "offset_hhmm": "-10:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-11": [
+    {
+      "name": "Greenwich Mean Time -11",
+      "offset": -39600,
+      "offset_hhmm": "-11:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-12": [
+    {
+      "name": "Greenwich Mean Time -12",
+      "offset": -43200,
+      "offset_hhmm": "-12:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-2": [
+    {
+      "name": "Greenwich Mean Time -2",
+      "offset": -7200,
+      "offset_hhmm": "-02:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-3": [
+    {
+      "name": "Greenwich Mean Time -3",
+      "offset": -10800,
+      "offset_hhmm": "-03:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-4": [
+    {
+      "name": "Greenwich Mean Time -4",
+      "offset": -14400,
+      "offset_hhmm": "-04:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-5": [
+    {
+      "name": "Greenwich Mean Time -5",
+      "offset": -18000,
+      "offset_hhmm": "-05:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-6": [
+    {
+      "name": "Greenwich Mean Time -6",
+      "offset": -21600,
+      "offset_hhmm": "-06:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-7": [
+    {
+      "name": "Greenwich Mean Time -7",
+      "offset": -25200,
+      "offset_hhmm": "-07:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-8": [
+    {
+      "name": "Greenwich Mean Time -8",
+      "offset": -28800,
+      "offset_hhmm": "-08:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-9": [
+    {
+      "name": "Greenwich Mean Time -9",
+      "offset": -32400,
+      "offset_hhmm": "-09:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+1": [
+    {
+      "name": "Greenwich Mean Time +1",
+      "offset": 3600,
+      "offset_hhmm": "+01:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+10": [
+    {
+      "name": "Greenwich Mean Time +10",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+11": [
+    {
+      "name": "Greenwich Mean Time +11",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+12": [
+    {
+      "name": "Greenwich Mean Time +12",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+13": [
+    {
+      "name": "Greenwich Mean Time +13",
+      "offset": 46800,
+      "offset_hhmm": "+13:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+14": [
+    {
+      "name": "Greenwich Mean Time +14",
+      "offset": 50400,
+      "offset_hhmm": "+14:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+2": [
+    {
+      "name": "Greenwich Mean Time +2",
+      "offset": 7200,
+      "offset_hhmm": "+02:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+3": [
+    {
+      "name": "Greenwich Mean Time +3",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+4": [
+    {
+      "name": "Greenwich Mean Time +4",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+5": [
+    {
+      "name": "Greenwich Mean Time +5",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+6": [
+    {
+      "name": "Greenwich Mean Time +6",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+7": [
+    {
+      "name": "Greenwich Mean Time +7",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+8": [
+    {
+      "name": "Greenwich Mean Time +8",
+      "offset": 28800,
+      "offset_hhmm": "+08:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+9": [
+    {
+      "name": "Greenwich Mean Time +9",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "UTC": [
+    {
+      "name": "Coordinated Universal Time",
+      "offset": 0,
+      "offset_hhmm": "+00:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "SAMT": [
+    {
+      "name": "Samara Time/Samara Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "RU"
+    },
+    {
+      "name": "Samara Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "MSK": [
+    {
+      "name": "Moscow Time/Moscow Standard Time",
+      "offset": 10800,
+      "offset_hhmm": "+03:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "MSD": [
+    {
+      "name": "Moscow Summer Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": true,
+      "country_code": "RU"
+    }
+  ],
+  "GMT+04:00": [
+    {
+      "name": "Saratov Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "VOLT": [
+    {
+      "name": "Volgograd Time/Volgograd Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "RU"
+    }
+  ],
+  "-00": [
+    {
+      "name": "Undefined",
+      "offset": 0,
+      "offset_hhmm": "+00:00",
+      "is_dst": false,
+      "country_code": "GB"
+    }
+  ],
+  "IOT": [
+    {
+      "name": "Indian Ocean Time",
+      "offset": 21600,
+      "offset_hhmm": "+06:00",
+      "is_dst": false,
+      "country_code": "IO"
+    }
+  ],
+  "CXT": [
+    {
+      "name": "Christmas Island Time",
+      "offset": 25200,
+      "offset_hhmm": "+07:00",
+      "is_dst": false,
+      "country_code": "CX"
+    }
+  ],
+  "CCT": [
+    {
+      "name": "Cocos Islands Time",
+      "offset": 23400,
+      "offset_hhmm": "+06:30",
+      "is_dst": false,
+      "country_code": "CC"
+    }
+  ],
+  "TFT": [
+    {
+      "name": "French Southern & Antarctic Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "TF"
+    }
+  ],
+  "SCT": [
+    {
+      "name": "Seychelles Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "SC"
+    }
+  ],
+  "MVT": [
+    {
+      "name": "Maldives Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": false,
+      "country_code": "MV"
+    }
+  ],
+  "MUT": [
+    {
+      "name": "Mauritius Time/Mauritius Standard Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "MU"
+    }
+  ],
+  "MUST": [
+    {
+      "name": "Mauritius Summer Time",
+      "offset": 18000,
+      "offset_hhmm": "+05:00",
+      "is_dst": true,
+      "country_code": "MU"
+    }
+  ],
+  "RET": [
+    {
+      "name": "Réunion Time",
+      "offset": 14400,
+      "offset_hhmm": "+04:00",
+      "is_dst": false,
+      "country_code": "RE"
+    }
+  ],
+  "IRT": [
+    {
+      "name": "Iran Time",
+      "offset": 12600,
+      "offset_hhmm": "+03:30",
+      "is_dst": false,
+      "country_code": "IR"
+    }
+  ],
+  "MHT": [
+    {
+      "name": "Marshall Islands Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "MH"
+    }
+  ],
+  "MET": [
+    {
+      "name": "Middle European Time",
+      "offset": 3600,
+      "offset_hhmm": "+01:00",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "MEST": [
+    {
+      "name": "Middle European Summer Time",
+      "offset": 7200,
+      "offset_hhmm": "+02:00",
+      "is_dst": true,
+      "country_code": ""
+    }
+  ],
+  "CHAT": [
+    {
+      "name": "Chatham Time",
+      "offset": 45900,
+      "offset_hhmm": "+12:45",
+      "is_dst": false,
+      "country_code": "NZ"
+    }
+  ],
+  "CHAST": [
+    {
+      "name": "Chatham Standard Time",
+      "offset": 45900,
+      "offset_hhmm": "+12:45",
+      "is_dst": false,
+      "country_code": "NZ"
+    }
+  ],
+  "CHADT": [
+    {
+      "name": "Chatham Daylight Time",
+      "offset": 49500,
+      "offset_hhmm": "+13:45",
+      "is_dst": true,
+      "country_code": "NZ"
+    }
+  ],
+  "WST": [
+    {
+      "name": "Apia Time/Apia Standard Time",
+      "offset": 46800,
+      "offset_hhmm": "+13:00",
+      "is_dst": false,
+      "country_code": "WS"
+    }
+  ],
+  "WSDT": [
+    {
+      "name": "Apia Daylight Time",
+      "offset": 50400,
+      "offset_hhmm": "+14:00",
+      "is_dst": true,
+      "country_code": "WS"
+    }
+  ],
+  "CHUT": [
+    {
+      "name": "Chuuk Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": "FM"
+    }
+  ],
+  "VUT": [
+    {
+      "name": "Vanuatu Time/Vanuatu Standard Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "VU"
+    }
+  ],
+  "VUST": [
+    {
+      "name": "Vanuatu Summer Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": true,
+      "country_code": "VU"
+    }
+  ],
+  "PHOT": [
+    {
+      "name": "Phoenix Islands Time",
+      "offset": 46800,
+      "offset_hhmm": "+13:00",
+      "is_dst": false,
+      "country_code": "KI"
+    }
+  ],
+  "TKT": [
+    {
+      "name": "Tokelau Time",
+      "offset": 46800,
+      "offset_hhmm": "+13:00",
+      "is_dst": false,
+      "country_code": "TK"
+    }
+  ],
+  "FJT": [
+    {
+      "name": "Fiji Time/Fiji Standard Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "FJ"
+    }
+  ],
+  "FJST": [
+    {
+      "name": "Fiji Summer Time",
+      "offset": 46800,
+      "offset_hhmm": "+13:00",
+      "is_dst": true,
+      "country_code": "FJ"
+    }
+  ],
+  "TVT": [
+    {
+      "name": "Tuvalu Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "TV"
+    }
+  ],
+  "GALT": [
+    {
+      "name": "Galapagos Time",
+      "offset": -21600,
+      "offset_hhmm": "-06:00",
+      "is_dst": false,
+      "country_code": "EC"
+    }
+  ],
+  "GAMT": [
+    {
+      "name": "Gambier Time",
+      "offset": -32400,
+      "offset_hhmm": "-09:00",
+      "is_dst": false,
+      "country_code": "PF"
+    }
+  ],
+  "SBT": [
+    {
+      "name": "Solomon Islands Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "SB"
+    }
+  ],
+  "ChST": [
+    {
+      "name": "Chamorro Standard Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": "GU"
+    }
+  ],
+  "GDT": [
+    {
+      "name": "Guam Daylight Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": true,
+      "country_code": "GU"
+    }
+  ],
+  "LINT": [
+    {
+      "name": "Line Islands Time",
+      "offset": 50400,
+      "offset_hhmm": "+14:00",
+      "is_dst": false,
+      "country_code": "KI"
+    }
+  ],
+  "KOST": [
+    {
+      "name": "Kosrae Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "FM"
+    }
+  ],
+  "MART": [
+    {
+      "name": "Marquesas Time",
+      "offset": -34200,
+      "offset_hhmm": "-09:30",
+      "is_dst": false,
+      "country_code": "PF"
+    }
+  ],
+  "SST": [
+    {
+      "name": "Samoa Time/Samoa Standard Time",
+      "offset": -39600,
+      "offset_hhmm": "-11:00",
+      "is_dst": false,
+      "country_code": "UM"
+    }
+  ],
+  "NRT": [
+    {
+      "name": "Nauru Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "NR"
+    }
+  ],
+  "NUT": [
+    {
+      "name": "Niue Time",
+      "offset": -39600,
+      "offset_hhmm": "-11:00",
+      "is_dst": false,
+      "country_code": "NU"
+    }
+  ],
+  "NFT": [
+    {
+      "name": "Norfolk Island Time/Norfolk Island Standard Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "NF"
+    }
+  ],
+  "NFDT": [
+    {
+      "name": "Norfolk Island Daylight Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": true,
+      "country_code": "NF"
+    }
+  ],
+  "NCT": [
+    {
+      "name": "New Caledonia Time/New Caledonia Standard Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "NC"
+    }
+  ],
+  "NCST": [
+    {
+      "name": "New Caledonia Summer Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": true,
+      "country_code": "NC"
+    }
+  ],
+  "PWT": [
+    {
+      "name": "Palau Time",
+      "offset": 32400,
+      "offset_hhmm": "+09:00",
+      "is_dst": false,
+      "country_code": "PW"
+    }
+  ],
+  "PONT": [
+    {
+      "name": "Ponape Time",
+      "offset": 39600,
+      "offset_hhmm": "+11:00",
+      "is_dst": false,
+      "country_code": "FM"
+    }
+  ],
+  "PGT": [
+    {
+      "name": "Papua New Guinea Time",
+      "offset": 36000,
+      "offset_hhmm": "+10:00",
+      "is_dst": false,
+      "country_code": "PG"
+    }
+  ],
+  "CKT": [
+    {
+      "name": "Cook Islands Time/Cook Islands Standard Time",
+      "offset": -36000,
+      "offset_hhmm": "-10:00",
+      "is_dst": false,
+      "country_code": "CK"
+    }
+  ],
+  "CKHST": [
+    {
+      "name": "Cook Islands Half Summer Time",
+      "offset": -34200,
+      "offset_hhmm": "-09:30",
+      "is_dst": true,
+      "country_code": "CK"
+    }
+  ],
+  "TAHT": [
+    {
+      "name": "Tahiti Time",
+      "offset": -36000,
+      "offset_hhmm": "-10:00",
+      "is_dst": false,
+      "country_code": "PF"
+    }
+  ],
+  "GILT": [
+    {
+      "name": "Gilbert Islands Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "KI"
+    }
+  ],
+  "TOT": [
+    {
+      "name": "Tonga Time/Tonga Standard Time",
+      "offset": 46800,
+      "offset_hhmm": "+13:00",
+      "is_dst": false,
+      "country_code": "TO"
+    }
+  ],
+  "TOST": [
+    {
+      "name": "Tonga Summer Time",
+      "offset": 50400,
+      "offset_hhmm": "+14:00",
+      "is_dst": true,
+      "country_code": "TO"
+    }
+  ],
+  "WAKT": [
+    {
+      "name": "Wake Island Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "UM"
+    }
+  ],
+  "WFT": [
+    {
+      "name": "Wallis & Futuna Time",
+      "offset": 43200,
+      "offset_hhmm": "+12:00",
+      "is_dst": false,
+      "country_code": "WF"
+    }
+  ]
+}

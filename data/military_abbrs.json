@@ -1,0 +1,127 @@
+{
+  "A": {
+    "name": "Alfa Time Zone",
+    "offset": 3600,
+    "offset_hhmm": "+01:00"
+  },
+  "B": {
+    "name": "Bravo Time Zone",
+    "offset": 7200,
+    "offset_hhmm": "+02:00"
+  },
+  "C": {
+    "name": "Charlie Time Zone",
+    "offset": 10800,
+    "offset_hhmm": "+03:00"
+  },
+  "D": {
+    "name": "Delta Time Zone",
+    "offset": 14400,
+    "offset_hhmm": "+04:00"
+  },
+  "E": {
+    "name": "Echo Time Zone",
+    "offset": 18000,
+    "offset_hhmm": "+05:00"
+  },
+  "F": {
+    "name": "Foxtrot Time Zone",
+    "offset": 21600,
+    "offset_hhmm": "+06:00"
+  },
+  "G": {
+    "name": "Golf Time Zone",
+    "offset": 25200,
+    "offset_hhmm": "+07:00"
+  },
+  "H": {
+    "name": "Hotel Time Zone",
+    "offset": 28800,
+    "offset_hhmm": "+08:00"
+  },
+  "I": {
+    "name": "India Time Zone",
+    "offset": 32400,
+    "offset_hhmm": "+09:00"
+  },
+  "K": {
+    "name": "Kilo Time Zone",
+    "offset": 36000,
+    "offset_hhmm": "+10:00"
+  },
+  "L": {
+    "name": "Lima Time Zone",
+    "offset": 39600,
+    "offset_hhmm": "+11:00"
+  },
+  "M": {
+    "name": "Mike Time Zone",
+    "offset": 43200,
+    "offset_hhmm": "+12:00"
+  },
+  "N": {
+    "name": "November Time Zone",
+    "offset": -3600,
+    "offset_hhmm": "-01:00"
+  },
+  "O": {
+    "name": "Oscar Time Zone",
+    "offset": -7200,
+    "offset_hhmm": "-02:00"
+  },
+  "P": {
+    "name": "Papa Time Zone",
+    "offset": -10800,
+    "offset_hhmm": "-03:00"
+  },
+  "Q": {
+    "name": "Quebec Time Zone",
+    "offset": -14400,
+    "offset_hhmm": "-04:00"
+  },
+  "R": {
+    "name": "Romeo Time Zone",
+    "offset": -18000,
+    "offset_hhmm": "-05:00"
+  },
+  "S": {
+    "name": "Sierra Time Zone",
+    "offset": -21600,
+    "offset_hhmm": "-06:00"
+  },
+  "T": {
+    "name": "Tango Time Zone",
+    "offset": -25200,
+    "offset_hhmm": "-07:00"
+  },
+  "U": {
+    "name": "Uniform Time Zone",
+    "offset": -28800,
+    "offset_hhmm": "-08:00"
+  },
+  "V": {
+    "name": "Victor Time Zone",
+    "offset": -32400,
+    "offset_hhmm": "-09:00"
+  },
+  "W": {
+    "name": "Whiskey Time Zone",
+    "offset": -36000,
+    "offset_hhmm": "-10:00"
+  },
+  "X": {
+    "name": "X-ray Time Zone",
+    "offset": -39600,
+    "offset_hhmm": "-11:00"
+  },
+  "Y": {
+    "name": "Yankee Time Zone",
+    "offset": -43200,
+    "offset_hhmm": "-12:00"
+  },
+  "Z": {
+    "name": "Zulu Time Zone",
+    "offset": 0,
+    "offset_hhmm": "+00:00"
+  }
+}
