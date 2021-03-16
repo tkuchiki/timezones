@@ -1,0 +1,83 @@
+{
+  "GMT+3:30": [
+    {
+      "name": "Greenwich Mean Time +3:30",
+      "offset": 12600,
+      "offset_hhmm": "+03:30",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+4:30": [
+    {
+      "name": "Greenwich Mean Time +4:30",
+      "offset": 16200,
+      "offset_hhmm": "+04:30",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+5:45": [
+    {
+      "name": "Greenwich Mean Time +5:45",
+      "offset": 20700,
+      "offset_hhmm": "+05:45",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+6:30": [
+    {
+      "name": "Greenwich Mean Time +6:30",
+      "offset": 23400,
+      "offset_hhmm": "+06:30",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+8:45": [
+    {
+      "name": "Greenwich Mean Time +8:45",
+      "offset": 31500,
+      "offset_hhmm": "+08:45",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+9:30": [
+    {
+      "name": "Greenwich Mean Time +9:30",
+      "offset": 34200,
+      "offset_hhmm": "+09:30",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+10:30": [
+    {
+      "name": "Greenwich Mean Time +10:30",
+      "offset": 37800,
+      "offset_hhmm": "+10:30",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT+13:45": [
+    {
+      "name": "Greenwich Mean Time +13:45",
+      "offset": 49500,
+      "offset_hhmm": "+13:45",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ],
+  "GMT-9:30": [
+    {
+      "name": "Greenwich Mean Time -9:30",
+      "offset": -34200,
+      "offset_hhmm": "-09:30",
+      "is_dst": false,
+      "country_code": ""
+    }
+  ]
+}

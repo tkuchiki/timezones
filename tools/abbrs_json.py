@@ -81,7 +81,12 @@ def abbreviations():
                 })
 
         abbrs["GMT"][0]["country_code"] = ""
+    
+    additional_abbrs_json = sys.argv[2]
+    with open(additional_abbrs_json) as f:
+        data = json.load(f)
 
+    abbrs.update(data)
     print(json.dumps(abbrs))
 
 if __name__ == "__main__":

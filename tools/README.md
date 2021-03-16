@@ -15,7 +15,7 @@ $ python abbr_timezones_json.py ../data/timezones.json > ../data/abbr_timezones.
 ## abbrs_json.py
 
 ```console
-$ python abbrs_json.py ../data/timezones.json > ../data/abbrs.json
+$ python abbrs_json.py ../data/timezones.json ../data/additional_abbrs.json > ../data/abbrs.json
 ```
 
 ## dst_json.py
